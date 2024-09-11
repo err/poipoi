@@ -1,0 +1,4 @@
+{:deps {de.topobyte/osm4j-pbf {:mvn/version "0.1.0"}
+        com.slimjars.trove4j/trove4j-long-array-list {:mvn/version "1.0.1"}}
+ :mvn/repos {"slimjars" {:url "http://mvn.slimjars.com"}
+             "topobyte" {:url "http://mvn.topobyte.de"}}}
